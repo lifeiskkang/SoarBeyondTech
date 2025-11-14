@@ -7,6 +7,7 @@
 ---
 
 ## 🛠️ Tech & Skills I’ll Be Exploring
+
 - **AWS Cloud** (EC2, IAM, S3, VPC, Lambda, CloudFormation, etc.)  
 - **DevOps & Infrastructure** (Linux, Terraform, Ansible, Docker, CI/CD)  
 - **Python** (automation, scripts, small projects, cloud tooling)  
@@ -14,14 +15,7 @@
 
 ---
 
-## 📘 Why I Built This Repository
-To create a space that reflects:
-- my growth  
-- my discipline  
-- and the story of someone who keeps rising **beyond tech**  
-
----
-
 ## 🔥 A Small Promise to Myself
+
 > **Let us fly freely, where our courage becomes our wings.**
 
