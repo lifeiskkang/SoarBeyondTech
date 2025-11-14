@@ -1,4 +1,4 @@
-# 🌟 SoarBeyondTech
+# SoarBeyondTech
 
 **SoarBeyondTech** is my personal journey of breaking limits, rising beyond doubts, and building the kind of technical strength that carries me further than I ever imagined.  
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tech & Skills I’ll Be Exploring
+## Tech & Skills I’ll Be Exploring
 
 - **AWS Cloud** (EC2, IAM, S3, VPC, Lambda, CloudFormation, etc.)  
 - **DevOps & Infrastructure** (Linux, Terraform, Ansible, Docker, CI/CD)  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔥 A Small Promise to Myself
+## A Small Promise to Myself
 
 > **Let us fly freely, where our courage becomes our wings.**
 
