@@ -7,16 +7,6 @@ Every step here is a reminder that growth is built through persistence, courage,
 
 ---
 
-## 🚀 What This Repository Represents
-
-This is where I:
-- challenge myself to grow beyond my comfort zone  
-- learn and build with intention  
-- document my progress in AWS, DevOps, Linux, and Python  
-- keep pushing until “impossible” starts to feel small  
-
----
-
 ## 🛠️ Tech & Skills I’ll Be Exploring
 - **AWS Cloud** (EC2, IAM, S3, VPC, Lambda, CloudFormation, etc.)  
 - **DevOps & Infrastructure** (Linux, Terraform, Ansible, Docker, CI/CD)  
